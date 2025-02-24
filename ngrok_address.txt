@@ -1,3 +1,3 @@
 https://3b1e-213-230-80-132.ngrok-free.app
-nishon
-C:\Users\%userprofile%\Downloads\
+Desktop
+C:\Users\%userprofile%\
